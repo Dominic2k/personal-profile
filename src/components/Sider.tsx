@@ -41,12 +41,12 @@ export default function Sider() {
     )}
     >
       <div className={'flex flex-col gap-6'}>
-        <div className={''}>
+        {/* <div className={''}>
           <div
             className={'text-[20px] w-[32px] h-[32px] bg-neutral-100 rounded-full flex justify-center items-center text-neutral-400 cursor-pointer transition-all duration-300 hover:text-white hover:bg-primary'}>
             <FiUser/>
           </div>
-        </div>
+        </div> */}
         <IconButton
           icon={FiHome}
           label={'Home'}

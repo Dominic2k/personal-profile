@@ -17,10 +17,10 @@ export default function ProfileHeader() {
           <OpenMenuButton/>
           <div className={'md:px-4'}>
             <div className={'font-semibold'}>
-              Anh Nhan Nguyen
+              Pham Duc Dat
             </div>
             <div className={'text-[12px]'}>
-              3 Posts, 25K Views
+              2 Posts, 25K Views
             </div>
           </div>
         </div>
