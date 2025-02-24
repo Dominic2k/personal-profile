@@ -9,12 +9,12 @@ export const AppConfig = {
     `Have a high spirit of learning and desire to develop yourself in the field of information technology.\n` +
     `Web Development, Mobile Development, DevOps & more.`,
   subscriptions: [{
-    name: "Hire Me",
-    price: "At any price",
+    name: "Contact me",
+    price: "for free",
     preferred: true,
   }, {
-    name: "Freelance",
-    price: "From $100"
+    name: "Need help?",
+    price: "For free"
   }],
   socialLinks: [{
     name: 'GitHub',
@@ -22,24 +22,24 @@ export const AppConfig = {
     icon: FiGithub
   }, {
     name: 'Facebook',
-    url: 'https://facebook.com/Dominic2kJs',
+    url: 'https://www.facebook.com/dc95ffa2dc65022787ad48436816e8b2/',
     icon: FiFacebook
   }],
   expertises: [{
     name: 'Web Development',
     icon: FiCode,
-    description: 'Learning: React, Next.js, Node.js, Express, Nest.js, Golang, PHP, Python, SQL, MongoDB, GraphQL, REST API, C#, Rust etc.'
+    description: 'Laravel (learning), Reactjs (learning), HTML, CSS, Javascript, PHP, Python, Java, SQL, etc.'
   }, {
     name: 'Infrastructure',
     icon: FiCloud,
-    description: 'Learning: AWS, GCP, Azure, Kubernetes, Docker, etc.'
+    description: 'AWS (learning), Docker (learning), etc.'
   }, {
-    name: 'IoT Development',
+    name: 'Security',
     icon: FiCpu,
-    description: 'Learning: ESP32, ESP8266, Arduino, etc.'
+    description: 'Hidden'
   }],
   analytics: {
-    gaId: 'Learning: G-NF39CSC1T1',
+    gaId: 'None',
   },
   giscusEnabled: true,
 }
